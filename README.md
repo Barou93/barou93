@@ -1,5 +1,5 @@
 ##  Bonjour 👋
-###  Je suis Oumar MAURET ( <a href="https://www.linkedin.com/in/oumar-mauret-257489bb/" target="_blank">LN</a> )
+###  Je suis Oumar MAURET ( <a href="https://www.linkedin.com/in/oumar-mauret-257489bb/" target="_blank">OM</a> )
 
 - 🌴 Je suis <b>Développeur Web FullStack</b> et <b>Mobile Developpeur</b>
 - 📫 En savoir plus sur moi <a href="https://www.linkedin.com/in/oumar-mauret-257489bb/" target="_blank">ICI</a>
