@@ -16,6 +16,8 @@
 - 👯 J'aide mes clients à réaliser leurs rêves...
 - ⚡ Fun fact : Je suis Développeur, Marketing digital, chef d'entreprise et Consultant
 - 📫 Comment me joindre : LinkedIn ou email
+  ## Temps de  codage
+  [![wakatime](https://wakatime.com/badge/github/Barou93/barou93.svg)](https://wakatime.com/badge/github/Barou93/barou93)
 
 ##  Messtack techniques 
  
